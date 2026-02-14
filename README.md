@@ -16,10 +16,6 @@ Filter a list of items (now themed with Clash of Clans units) in real-time as yo
 
 ---
 
-## Screenshots
-
-![Search Filter Screenshot](./screenshot.png)  
-*(Optional: Add screenshot of your app)*
 
 ---
 
