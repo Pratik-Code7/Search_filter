@@ -1,16 +1,32 @@
-# React + Vite
+# Search Filter 🔍
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **React** search filter application built with **Vite** and **Tailwind CSS**.  
+Filter a list of items (now themed with Clash of Clans units) in real-time as you type.  
 
-Currently, two official plugins are available:
+💻 Live Demo: [https://pratik-code7.github.io/Search_filter/](https://pratik-code7.github.io/Search_filter/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Search filter that updates results dynamically
+- Responsive layout with Tailwind CSS
+- Built with React & Vite for fast performance
+- Includes CoC-themed items (troops, heroes, spells, buildings)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshots
+
+![Search Filter Screenshot](./screenshot.png)  
+*(Optional: Add screenshot of your app)*
+
+---
+
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Pratik-Code7/Search_filter.git
+cd Search_filter
